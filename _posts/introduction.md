@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction"
-date: 2018-12-06
+date: 2018-12-06 12:00:00
 image: '/assets/img/post-image.png'
 description: 'about tech'
 tags:
