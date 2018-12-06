@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Lorem ipsum speak.."
-date: 2016-09-13 01:00:00
+title: "Introduction"
+date: 2018-12-06
 image: '/assets/img/post-image.png'
 description: 'about tech'
 tags:
