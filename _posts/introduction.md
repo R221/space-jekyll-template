@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Astrophysical News"
-image: ''
-date:   2018-06-12 17:00:00
+title: "Lorem ipsum speak.."
+date: 2016-09-13 01:00:00
+image: '/assets/img/post-image.png'
+description: 'about tech'
 tags:
-- about
-description: ''
+- lorem
+- tech
 categories:
-- About
+- Lorem ipsum
+twitter_text: 'How to speak with Lorem'
 ---
