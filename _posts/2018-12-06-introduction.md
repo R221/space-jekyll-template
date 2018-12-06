@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction"
+title: Introduction
 date: 2018-12-06
 image: '/assets/img/post-image.png'
 description: 'about tech'
@@ -10,4 +10,4 @@ tags:
 categories:
 - Lorem ipsum
 twitter_text: 'How to speak with Lorem'
----
+--- 
