@@ -5,8 +5,8 @@ baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-templ
 url: "https://r221.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 
 # User settings
-username: Astrophysical and Physics News
-user_title: Astrophysical and Physics News
+username: Astrophysical News
+user_title: Astrophysical News
 email: astrophysicalnews@gmail.com
 twitter_username: robertspacej
 github_username:  R221 
