@@ -1,8 +1,8 @@
 # Site settings
 title: Astrophysical News
 description: "A blog explaining astrophysical and space progress."
-baseurl: "" # for test: remove string '/space-jekyll-template' to ''
-url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-template' to ''
+url: "https://yourusername.githu.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 
 # User settings
 username: Astrophysical and Physics News
