@@ -11,9 +11,9 @@ email: astrophysicalnews@gmail.com
 twitter_username: robertspacej
 github_username:  R221
 gplus_username:  
-linkedin_public_url: https://www.linkedin.com/in/therobertjames/ # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
+linkedin_public_url: therobertjames # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 disqus_username: loremipsum
-profile_picture: https://i.imgur.com/KenF7Fy.jpg?2
+profile_picture: https://upload.wikimedia.org/wikipedia/commons/b/b2/Cassini_Saturn_Orbit_Insertion.jpg
 
 # Build settings
 markdown: kramdown
@@ -31,7 +31,7 @@ compress_html:
 links:
   section_1:
     - title: home
-      url: https://r221.github.io/space-jekyll-template/
+      url: /r221.github.io/space-jekyll-template/
       key_trigger: 1
     - title: my posts
       url: /posts
@@ -61,10 +61,6 @@ links:
 projects:
   - name: fluany
     url: https://github.com/fluany/fluany
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
