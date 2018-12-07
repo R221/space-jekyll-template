@@ -9,10 +9,8 @@ username: Astrophysical and Physics News
 user_title: Astrophysical and Physics News
 email: astrophysicalnews@gmail.com
 twitter_username: robertspacej
-github_username:  R221
-gplus_username:  
+github_username:  R221 
 linkedin_public_url: therobertjames # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: loremipsum
 profile_picture: https://upload.wikimedia.org/wikipedia/commons/b/b2/Cassini_Saturn_Orbit_Insertion.jpg
 
 # Build settings
@@ -59,8 +57,8 @@ links:
 
 # projects in header index
 projects:
-  - name: fluany
-    url: https://github.com/fluany/fluany
+  - name: Coming soon!
+    url: https://r221.github.io/space-jekyll-template/
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
